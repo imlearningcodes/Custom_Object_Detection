@@ -1,7 +1,7 @@
 # Custom_Object_Detection
 The project aims to use Image processing in Python that will help in making a Smart Animal Detection System.
 
-3.2.3.4.2 Training YOLO algorithm for animal detection using OIDV4 toolkit
+Training YOLO algorithm for animal detection using OIDV4 toolkit
 In this method, a custom dataset of YOLO is trained using OIDV4 toolkit and then modeled train it in the cloud.
 The tools we used here are-
 1.	Python library
